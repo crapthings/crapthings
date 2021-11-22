@@ -20,18 +20,20 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=crapthings&layout=compact&&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
 
-#### Starter Kit
+#### Repos
 
 [Snowpack Starter](https://github.com/crapthings/snowpack-starter-kit) :rocket: Snowpack with react.
 
 [Hardhat Dapp Starter](https://github.com/crapthings/hardhat-dapp-starter) :rocket: a dapp starter kit with modern workflow.
 
-#### Contact
-
-:mailbox_with_mail: [crapthings@gmail.com](mailto:crapthings@gmail.com)
+#### Skills
 
 || :+1: |
 | --- | --- |
 | language | javascript, typescript, coffeescript |
 | framework | meteor |
 | frontend | react, svelte |
+
+#### Contact
+
+:mailbox_with_mail: [crapthings@gmail.com](mailto:crapthings@gmail.com)

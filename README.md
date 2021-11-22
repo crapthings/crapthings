@@ -14,17 +14,17 @@
 
 ---
 
-![Crapthings's GitHub stats](https://github-readme-stats.vercel.app/api?username=crapthings&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&show_icons=true&icon_color=fff)
-
----
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=crapthings&layout=compact&&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
-
 #### Repos
 
 [Snowpack Starter](https://github.com/crapthings/snowpack-starter-kit) :rocket: Snowpack with react.
 
 [Hardhat Dapp Starter](https://github.com/crapthings/hardhat-dapp-starter) :rocket: a dapp starter kit with modern workflow.
+
+#### Stats
+
+![Crapthings's GitHub stats](https://github-readme-stats.vercel.app/api?username=crapthings&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&show_icons=true&icon_color=fff)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=crapthings&layout=compact&&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
 
 #### Skills
 

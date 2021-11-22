@@ -14,7 +14,11 @@
 
 ---
 
-[![Crapthings's GitHub stats](https://github-readme-stats.vercel.app/api?username=crapthings)](https://github.com/anuraghazra/github-readme-stats)
+![Crapthings's GitHub stats](https://github-readme-stats.vercel.app/api?username=crapthings&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&show_icons=true&icon_color=fff)
+
+---
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=crapthings&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 #### Starter Kit
 

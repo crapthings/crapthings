@@ -29,3 +29,8 @@
 #### Contact
 
 :mailbox_with_mail: [crapthings@gmail.com](mailto:crapthings@gmail.com)
+
+|| :+1: |
+| --- | --- |
+| Framework | Meteor |
+| Frontend | React |

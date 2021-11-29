@@ -16,6 +16,8 @@
 
 #### Repos
 
+[Readline ES](https://github.com/crapthings/readline-es) :heart: a tiny helper for read by line
+
 [Snowpack Starter](https://github.com/crapthings/snowpack-starter-kit) :rocket: Snowpack with react.
 
 [Hardhat Dapp Starter](https://github.com/crapthings/hardhat-dapp-starter) :rocket: a dapp starter kit with modern workflow.

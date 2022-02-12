@@ -20,6 +20,8 @@
 
 [Snowpack Starter](https://github.com/crapthings/snowpack-starter-kit) :rocket: Snowpack with react.
 
+[Snowpack Plugin Hjson](https://github.com/crapthings/snowpack-plugin-hjson) :rocket: hjson parser for snowpack
+
 [Hardhat Dapp Starter](https://github.com/crapthings/hardhat-dapp-starter) :rocket: a dapp starter kit with modern workflow.
 
 [Snowpack Phaser Starter](https://github.com/crapthings/snowpack-phaser-starter) :rocket: phaser 2d game starter

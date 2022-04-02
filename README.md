@@ -36,7 +36,7 @@
 
 || :+1: |
 | --- | --- |
-| language | javascript, typescript, coffeescript |
+| language | javascript, typescript, coffeescript, solidity |
 | framework | meteor |
 | frontend | react, svelte |
 

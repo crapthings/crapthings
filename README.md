@@ -18,6 +18,8 @@
 
 [Readline ES](https://github.com/crapthings/readline-es) :heart: a tiny helper for read by line
 
+[Parcel React Starter](https://github.com/crapthings/parcel-react-starter) :rocket: parcel react dev kit.
+
 [Snowpack Starter](https://github.com/crapthings/snowpack-starter-kit) :rocket: Snowpack with react.
 
 [Snowpack Plugin Hjson](https://github.com/crapthings/snowpack-plugin-hjson) :rocket: hjson parser for snowpack

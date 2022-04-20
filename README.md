@@ -20,6 +20,8 @@
 
 [Parcel React Starter](https://github.com/crapthings/parcel-react-starter) :rocket: parcel react dev kit.
 
+[Hardhat Parcel Dapp Starter](https://github.com/crapthings/hardhat-parcel-dapp-starter) :rocket: hardhat parcel dapp starter.
+
 [Snowpack Starter](https://github.com/crapthings/snowpack-starter-kit) :rocket: Snowpack with react.
 
 [Snowpack Plugin Hjson](https://github.com/crapthings/snowpack-plugin-hjson) :rocket: hjson parser for snowpack

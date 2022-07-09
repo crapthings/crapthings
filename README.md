@@ -30,6 +30,8 @@
 
 [Snowpack Phaser Starter](https://github.com/crapthings/snowpack-phaser-starter) :rocket: phaser 2d game starter
 
+[Fastify Starter](https://github.com/crapthings/fastify-starter) :rocket: fastify boilerplate
+
 [Express Starter](https://github.com/crapthings/express-starter) :rocket: express boilerplate
 
 #### Stats

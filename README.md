@@ -18,6 +18,8 @@
 
 [Readline ES](https://github.com/crapthings/readline-es) :heart: a tiny helper for read by line
 
+[Meteor React Starter](https://github.com/crapthings/meteor-react-starter) :rocket: meteor react dev kit.
+
 [Parcel React Starter](https://github.com/crapthings/parcel-react-starter) :rocket: parcel react dev kit.
 
 [Hardhat Parcel Dapp Starter](https://github.com/crapthings/hardhat-parcel-dapp-starter) :rocket: hardhat parcel dapp starter.

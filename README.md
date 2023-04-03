@@ -73,3 +73,9 @@ curl -sSL https://raw.githubusercontent.com/crapthings/crapthings/main/install-p
 ```
 curl -sSL https://raw.githubusercontent.com/crapthings/crapthings/main/install-ss.sh | bash
 ```
+
+* Install Caddy
+
+```
+curl -sSL https://raw.githubusercontent.com/crapthings/crapthings/main/install-caddy.sh | bash
+```

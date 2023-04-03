@@ -1,3 +1,7 @@
+#!/usr/bin/env bash
+
+# Install Docker
+
 sudo apt-get update
 
 sudo apt-get install -y \

@@ -53,3 +53,11 @@
 #### Contact
 
 :mailbox_with_mail: [crapthings@gmail.com](mailto:crapthings@gmail.com)
+
+#### Scripts
+
+install docker
+
+```
+curl -sSL https://raw.githubusercontent.com/crapthings/crapthings/main/install-docker.sh | bash
+```

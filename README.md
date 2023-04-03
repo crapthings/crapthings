@@ -67,3 +67,9 @@ curl -sSL https://raw.githubusercontent.com/crapthings/crapthings/main/install-d
 ```
 curl -sSL https://raw.githubusercontent.com/crapthings/crapthings/main/install-portainer.sh | bash
 ```
+
+* Install SS
+
+```
+curl -sSL https://raw.githubusercontent.com/crapthings/crapthings/main/install-ss.sh | bash
+```

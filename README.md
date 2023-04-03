@@ -85,3 +85,9 @@ curl -sSL https://raw.githubusercontent.com/crapthings/crapthings/main/install-c
 ```
 wget -O install.sh https://download.bt.cn/install/install-ubuntu_6.0.sh && sudo bash install.sh ed8484bec
 ```
+
+* Install Mongodb
+
+```
+curl -sSL https://github.com/crapthings/crapthings/blob/main/install-mongodb.sh | bash
+```

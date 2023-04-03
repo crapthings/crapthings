@@ -56,8 +56,14 @@
 
 #### Scripts
 
-install docker
+* Install Docker
 
 ```
 curl -sSL https://raw.githubusercontent.com/crapthings/crapthings/main/install-docker.sh | bash
+```
+
+* Install Portainer
+
+```
+curl -sSL https://raw.githubusercontent.com/crapthings/crapthings/main/install-portainer.sh | bash
 ```

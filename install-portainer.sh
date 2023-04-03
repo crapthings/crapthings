@@ -15,6 +15,10 @@ if [ -z "$port" ]; then
   port=9443
 fi
 
-docker volume create portainer_data
-docker run -d -p $port:9443 --name portainer --restart=always -v /var/run/docker.sock:/var/run/docker.sock -v portainer_data:/data portainer/portainer-ce:latest
-docker ps
+install()
+
+function install () {
+  docker volume create portainer_data
+  docker run -d -p $port:9443 --name portainer --restart=always -v /var/run/docker.sock:/var/run/docker.sock -v portainer_data:/data portainer/portainer-ce:latest
+  docker ps  
+}

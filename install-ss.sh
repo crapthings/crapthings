@@ -35,7 +35,15 @@ password=$(generate_password)
 
 install $method $password $port
 
+clear
+
+echo "config\n"
+
 echo "ip is $ip"
 echo "port is $port"
 echo "method is $method"
 echo "password is $password"
+
+echo "\npm2 config"
+
+echo `pm2 delete ss-local && pm2 start --name "ss-local" ss-local -- -s $ip -p $port -l 1086 -k $password -m $method`

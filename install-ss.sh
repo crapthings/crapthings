@@ -17,8 +17,8 @@ function clean_first () {
 
 function install () {
   docker run -d -it \
-    -e SERVER_PORT='8899' \
-    -e METHOD='$1' \
+    -e SERVER_PORT=8899 \
+    -e METHOD=$1 \
     -e PASSWORD=$2 \
     -p $3:8899 \
     --name shadowsocks shadowsocks/shadowsocks-libev

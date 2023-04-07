@@ -91,3 +91,9 @@ wget -O install.sh https://download.bt.cn/install/install-ubuntu_6.0.sh && sudo 
 ```
 curl -sSL https://github.com/crapthings/crapthings/blob/main/install-mongodb.sh | bash
 ```
+
+* Install NVM
+
+```
+curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.3/install.sh | bash
+```

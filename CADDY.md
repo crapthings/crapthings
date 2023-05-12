@@ -111,6 +111,8 @@ caddy stop # stop caddy server
 }
 ```
 
+### Caddy YAML Config
+
 ```yaml
 storage:
   module: file_system

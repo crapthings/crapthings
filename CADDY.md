@@ -12,6 +12,15 @@ sudo apt update
 sudo apt install -y caddy
 ```
 
+### Caddy Command
+
+```bash
+caddy run --config config.json # run caddy server with specify config
+caddy start --config config.json # start caddy server with specify config on background
+caddy reload # reload config
+caddy stop # stop caddy server
+```
+
 ### Caddy JSON Config
 
 ```json

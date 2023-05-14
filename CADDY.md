@@ -93,15 +93,38 @@ caddy stop # stop caddy server
             }
           ]
         },
-
         "example": {
-          "listen": [":2015"],
+          "listen": [
+            ":2015"
+          ],
           "routes": [
             {
-              "handle": [{
-                "handler": "static_response",
-                "body": "Hello, world!"
-              }]
+              "handle": [
+                {
+                  "handler": "static_response",
+                  "body": "Hello, world!"
+                }
+              ]
+            },
+            {
+              "handle": [
+                {
+                  "handler": "reverse_proxy",
+                  "upstreams": [
+                    {
+                      "dial": "127.0.0.1:3100"
+                    }
+                  ]
+                }
+              ],
+              "match": [
+                {
+                  "path": [
+                    "/api"
+                  ]
+                }
+              ],
+              "terminal": true
             }
           ]
         }
@@ -154,5 +177,17 @@ apps:
         - handle:
           - handler: static_response
             body: Hello, world!
-
+        - handle:
+          - handler: reverse_proxy
+            upstreams:
+            - dial: 127.0.0.1:3100
+          match:
+          - path:
+            - "/api"
+          terminal: true
 ```
+
+### TOOLS
+
+* JSON to YAML https://www.json2yaml.com/
+* JSON formatter https://jsonformatter.org/

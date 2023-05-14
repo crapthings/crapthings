@@ -97,3 +97,11 @@ curl -sSL https://github.com/crapthings/crapthings/blob/main/install-mongodb.sh 
 ```
 curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.3/install.sh | bash
 ```
+
+* Install NaiveProxy
+
+```
+git clone https://github.com/crapthings/docker-naive-proxy
+docker-naive-proxy
+docker compose up -d
+```

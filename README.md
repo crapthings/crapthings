@@ -104,6 +104,9 @@ curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.3/install.sh | bash
 
 ```
 git clone https://github.com/crapthings/docker-naive-proxy
-docker-naive-proxy
+cd docker-naive-proxy
+sed -i 's/#domain#/xxx.xxx.xxx/g' config/Caddyfile
+sed -i 's/#email#/xxx@xxx.xxx/g' config/Caddyfile
+sed -i 's/#account#/user password/g' config/Caddyfile
 docker compose up -d
 ```

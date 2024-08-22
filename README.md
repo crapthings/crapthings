@@ -110,3 +110,15 @@ sed -i 's/#email#/xxx@xxx.xxx/g' config/Caddyfile
 sed -i 's/#account#/user password/g' config/Caddyfile
 docker compose up -d
 ```
+
+* Mongodb
+
+```
+ docker run \
+  --name mongodb \
+  -v ./configdb:/data/configdb \
+  -v ./db:/data/db \
+  -p 27017:27017 \
+  -d \
+  mongodb/mongodb-community-server:latest
+```

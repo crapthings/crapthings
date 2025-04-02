@@ -1,6 +1,6 @@
 <h1 align='center'>:tada: Jak Sie Masz :tada:</h1>
 
-<h3 align='center'>I'm a fullstack javascript developer from 🇨🇳</h3>
+<h3 align='center'>I'm a fullstack vibe developer from 🇨🇳</h3>
 
 <div align='center'>
   <img src='https://komarev.com/ghpvc/?username=crapthings&style=plastic&color=brightgreen&label=Party+Party+Yeah' />

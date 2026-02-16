@@ -18,25 +18,9 @@
 
 [Readline ES](https://github.com/crapthings/readline-es) :heart: a tiny helper for read by line
 
-[Meteor React Starter](https://github.com/crapthings/meteor-react-starter) :rocket: meteor react dev kit.
+[Clarity](https://github.com/crapthings/clarity) :bulb: boost your personal productivity with elegant tools and workflows.
 
-[Meteor Mqtt Starter](https://github.com/crapthings/meteor-mqtt-starter) :rocket: meteor mqtt dev kit.
-
-[Parcel React Starter](https://github.com/crapthings/parcel-react-starter) :rocket: parcel react dev kit.
-
-[Hardhat Parcel Dapp Starter](https://github.com/crapthings/hardhat-parcel-dapp-starter) :rocket: hardhat parcel dapp starter.
-
-~~[Snowpack Starter](https://github.com/crapthings/snowpack-starter-kit) :rocket: Snowpack with react.~~
-
-~~[Snowpack Plugin Hjson](https://github.com/crapthings/snowpack-plugin-hjson) :rocket: hjson parser for snowpack~~
-
-~~[Hardhat Dapp Starter](https://github.com/crapthings/hardhat-dapp-starter) :rocket: a dapp starter kit with modern workflow.~~
-
-~~[Snowpack Phaser Starter](https://github.com/crapthings/snowpack-phaser-starter) :rocket: phaser 2d game starter~~
-
-[Fastify Starter](https://github.com/crapthings/fastify-starter) :rocket: fastify boilerplate
-
-[Express Starter](https://github.com/crapthings/express-starter) :rocket: express boilerplate
+[Meteor Storyboard](https://github.com/crapthings/meteor-storyboard) :pencil: AIGC storyboard made with Meteor.js
 
 #### Stats
 
@@ -47,8 +31,8 @@
 || :+1: |
 | --- | --- |
 | language | javascript, typescript, coffeescript, solidity |
-| framework | meteor |
-| frontend | react, svelte |
+| framework | meteor, next.js |
+| frontend | react |
 
 #### Contact
 

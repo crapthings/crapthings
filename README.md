@@ -22,6 +22,8 @@
 
 [Meteor Storyboard](https://github.com/crapthings/meteor-storyboard) :pencil: AIGC storyboard made with Meteor.js
 
+[HiMirror](https://github.com/crapthings/HiMirror) :camera: a lightweight macOS menu bar app for live camera mirroring and framing.
+
 #### Stats
 
 ![GitHub Stats](./profile/stats.svg)

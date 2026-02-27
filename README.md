@@ -24,6 +24,8 @@
 
 [HiMirror](https://github.com/crapthings/HiMirror) :camera: a lightweight macOS menu bar app for live camera mirroring and framing.
 
+[nb-cli](https://github.com/crapthings/nb-cli) :notebook: Nano Banana CLI tool to generate and edit images with Google Gemini directly from your terminal.
+
 #### Stats
 
 ![GitHub Stats](./profile/stats.svg)

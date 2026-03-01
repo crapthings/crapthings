@@ -26,6 +26,8 @@
 
 [nb-cli](https://github.com/crapthings/nb-cli) :notebook: Nano Banana CLI tool to generate and edit images with Google Gemini directly from your terminal.
 
+[Fabulous Summary](https://github.com/crapthings/fabulous-summary) :sparkles: A Chrome extension for fast page understanding with OpenRouter models (text/screenshot summary + Side Panel chat).
+
 #### Stats
 
 ![GitHub Stats](./profile/stats.svg)

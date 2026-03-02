@@ -1,5 +1,9 @@
 <h1 align='center'>:tada: Jak Sie Masz :tada:</h1>
 
+<p align='center'>
+  <a href='./index.html'><strong>Open My Landing Page</strong></a>
+</p>
+
 <h3 align='center'>I'm a fullstack vibe developer from 🇨🇳</h3>
 
 <div align='center'>

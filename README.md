@@ -1,7 +1,7 @@
 <h1 align='center'>:tada: Jak Sie Masz :tada:</h1>
 
 <p align='center'>
-  <a href='./index.html'><strong>Open My Landing Page</strong></a>
+  <a href='https://crapthings.github.io/crapthings/'><strong>Open My Landing Page</strong></a>
 </p>
 
 <h3 align='center'>I'm a fullstack vibe developer from 🇨🇳</h3>

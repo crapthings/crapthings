@@ -14,6 +14,12 @@
 
 ---
 
+#### Apps
+
+[Fabulous Cutter](https://crapthings.github.io/fabulous-cutter/dist/) — Trim Fast. Export Clean.
+
+[LLM Memory Calculator](https://crapthings.github.io/llmmc/) — Estimate VRAM for quantized LLMs
+
 #### Repos
 
 [Readline ES](https://github.com/crapthings/readline-es) :heart: a tiny helper for read by line
@@ -27,6 +33,8 @@
 [nb-cli](https://github.com/crapthings/nb-cli) :notebook: Nano Banana CLI tool to generate and edit images with Google Gemini directly from your terminal.
 
 [Fabulous Summary](https://github.com/crapthings/fabulous-summary) :sparkles: A Chrome extension for fast page understanding with OpenRouter models (text/screenshot summary + Side Panel chat).
+
+[Fabulous Cutter](https://github.com/crapthings/fabulous-cutter) :scissors: Local-first online tool to trim video and audio, multi-clip queue and batch export.
 
 #### Stats
 

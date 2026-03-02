@@ -40,6 +40,8 @@
 
 [Fabulous Cutter](https://github.com/crapthings/fabulous-cutter) :scissors: Local-first online tool to trim video and audio, multi-clip queue and batch export.
 
+[Doppel](https://github.com/crapthings/doppel) :busts_in_silhouette: A doppelganger browser.
+
 #### Stats
 
 ![GitHub Stats](./profile/stats.svg)

@@ -2,6 +2,8 @@
 
 <p align='center'>
   <a href='https://crapthings.github.io/crapthings/'><strong>Open My Landing Page</strong></a>
+  ·
+  <a href='https://zhanghong.me'><strong>zhanghong.me</strong></a>
 </p>
 
 <h3 align='center'>I'm a fullstack vibe developer from 🇨🇳</h3>
@@ -57,3 +59,5 @@
 #### Contact
 
 :mailbox_with_mail: [crapthings@gmail.com](mailto:crapthings@gmail.com)
+
+:musical_note: [soundcloud.com/drujk](https://soundcloud.com/drujk)

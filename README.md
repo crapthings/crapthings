@@ -38,6 +38,8 @@
 
 [nb-cli](https://github.com/crapthings/nb-cli) :notebook: Nano Banana CLI tool to generate and edit images with Google Gemini directly from your terminal.
 
+[zit-cli](https://github.com/crapthings/zit-cli) :zap: Z-Image Turbo CLI tool to generate images from your terminal.
+
 [Fabulous Summary](https://github.com/crapthings/fabulous-summary) :sparkles: A Chrome extension for fast page understanding with OpenRouter models (text/screenshot summary + Side Panel chat).
 
 [Fabulous Cutter](https://github.com/crapthings/fabulous-cutter) :scissors: Local-first online tool to trim video and audio, multi-clip queue and batch export.

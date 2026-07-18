@@ -15,6 +15,10 @@
   </p>
 </div>
 
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/1147704/142792552-de3e3e96-4277-4de6-b819-36644707b208.gif" alt="Borat dancing" />
+</div>
+
 ## What I build
 
 - **AI creative tools** — making image and video workflows faster, more approachable, and useful in real work.
@@ -62,6 +66,10 @@
   <img alt="Cloudflare" src="https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white" />
   <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
 </p>
+
+## Work stats
+
+![GitHub Stats](./profile/stats.svg)
 
 ## Elsewhere
 

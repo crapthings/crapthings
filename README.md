@@ -46,7 +46,9 @@
 | [money-safe](https://github.com/crapthings/money-safe) | A TypeScript money library for minor units, rounding, allocation, and safe payloads. |
 | [hysteria-rust](https://github.com/crapthings/hysteria-rust) | An independent Rust implementation of Hysteria 2 with QUIC and cross-platform networking. |
 
-## Private work, distilled into skills
+## Beyond open source
+
+Private product work has sharpened these capabilities:
 
 - **Agentic product systems** — LLM workflows, tool integrations, and useful automation that holds up beyond a demo.
 - **Generative-media pipelines** — storyboarding, multimodal assets, prompt-driven image/video creation, and reviewable production flows.

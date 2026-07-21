@@ -42,6 +42,7 @@
 
 | Project | What it does |
 | --- | --- |
+| [odin-rdf](https://github.com/crapthings/odin-rdf) | A bounded, streaming-first RDF toolkit for Odin with JSON-LD, RDFC-1.0 canonicalization, and a dependency-free conversion CLI. |
 | [Meldbase](https://github.com/crapthings/meldbase) | An experimental embedded reactive document database for Go and TypeScript. |
 | [money-safe](https://github.com/crapthings/money-safe) | A TypeScript money library for minor units, rounding, allocation, and safe payloads. |
 | [hysteria-rust](https://github.com/crapthings/hysteria-rust) | An independent Rust implementation of Hysteria 2 with QUIC and cross-platform networking. |

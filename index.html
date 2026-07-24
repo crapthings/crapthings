@@ -148,6 +148,7 @@
               <span class="rounded-full border border-olive-500/50 bg-olive-900/60 px-3 py-1">JavaScript</span>
               <span class="rounded-full border border-olive-500/50 bg-olive-900/60 px-3 py-1">TypeScript</span>
               <span class="rounded-full border border-olive-500/50 bg-olive-900/60 px-3 py-1">Python</span>
+              <span class="rounded-full border border-olive-500/50 bg-olive-900/60 px-3 py-1">RDF / SPARQL</span>
               <span class="rounded-full border border-olive-500/50 bg-olive-900/60 px-3 py-1">LLM-Augmented Agents</span>
               <span class="rounded-full border border-olive-500/50 bg-olive-900/60 px-3 py-1">Cross-Platform Apps</span>
               <span class="rounded-full border border-olive-500/50 bg-olive-900/60 px-3 py-1">Cloud Architecture</span>
@@ -170,6 +171,7 @@
                 <button data-cmd="runtime" class="rounded border border-olive-500/50 px-2 py-1 text-olive-200 transition hover:bg-olive-800/60">runtime --show</button>
                 <button data-cmd="frontend" class="rounded border border-olive-500/50 px-2 py-1 text-olive-200 transition hover:bg-olive-800/60">frontend --show</button>
                 <button data-cmd="ai" class="rounded border border-olive-500/50 px-2 py-1 text-olive-200 transition hover:bg-olive-800/60">ai --show</button>
+                <button data-cmd="semantic" class="rounded border border-olive-500/50 px-2 py-1 text-olive-200 transition hover:bg-olive-800/60">semantic --show</button>
                 <button data-cmd="cloud" class="rounded border border-olive-500/50 px-2 py-1 text-olive-200 transition hover:bg-olive-800/60">cloud --show</button>
               </div>
             </div>
@@ -269,6 +271,19 @@
                 <p class="mt-2 text-sm text-olive-100">Cloud foundations designed for stability, observability, and controlled scale.</p>
               </div>
             </div>
+            <a
+              href="https://github.com/crapthings/odin-graph"
+              target="_blank"
+              rel="noopener noreferrer"
+              class="mt-4 flex items-start justify-between gap-4 rounded-xl border border-olive-400/45 bg-black/30 p-4 transition hover:border-olive-300/80 hover:bg-olive-900/55"
+            >
+              <span>
+                <span class="mono block text-xs uppercase tracking-[0.2em] text-olive-300">semantic data / odin ecosystem</span>
+                <span class="mt-2 block text-lg font-semibold text-olive-50">odin-graph</span>
+                <span class="mt-2 block text-sm text-olive-100">Candidate in-memory RDF graph kernel, shaped by integration evidence from RDF, reasoning, and query work.</span>
+              </span>
+              <span class="mono shrink-0 text-sm text-olive-300" aria-hidden="true">↗</span>
+            </a>
           </article>
           <article class="rounded-2xl border border-olive-500/35 bg-black/35 p-6 backdrop-blur">
             <p class="mono text-xs uppercase tracking-[0.2em] text-olive-300">business impact</p>
@@ -366,6 +381,11 @@
           "agentic workflows with tools, memory, and orchestration",
           "ship ai-native features fast in multi-language environments",
         ],
+        semantic: [
+          "odin ecosystem: rdf, graph, reasoning, and sparql",
+          "odin-graph: candidate in-memory rdf graph kernel",
+          "integration evidence drives the extraction boundary",
+        ],
         cloud: [
           "cloud infrastructure: compute / data / observability / cicd",
           "cross-platform app delivery and scalable deployment patterns",
@@ -378,6 +398,7 @@
         runtime: "runtime --show",
         frontend: "frontend --show",
         ai: "ai --show",
+        semantic: "semantic --show",
         cloud: "cloud --show",
       };
 

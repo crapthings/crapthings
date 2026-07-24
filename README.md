@@ -53,8 +53,9 @@
 | --- | --- |
 | [odin-garden](https://github.com/crapthings/odin-garden) | Cross-project contracts, integration fixtures, and verification for the Odin RDF, SPARQL, and reasoning ecosystem. |
 | [odin-rdf](https://github.com/crapthings/odin-rdf) | Streaming-first RDF 1.1 parsers and writers for Odin. |
-| [odin-sparql](https://github.com/crapthings/odin-sparql) | A bounded, dataset-agnostic SPARQL 1.1 query parser and execution engine for Odin. |
+| [odin-graph](https://github.com/crapthings/odin-graph) | An experimental candidate for the in-memory RDF graph kernel, extracted only after cross-component integration evidence is stable. |
 | [odin-reasoner](https://github.com/crapthings/odin-reasoner) | A bounded, forward-chaining RDF reasoner for Odin, with RDFS Core and a documented OWL 2 RL seed. |
+| [odin-sparql](https://github.com/crapthings/odin-sparql) | A bounded, dataset-agnostic SPARQL 1.1 query parser and execution engine for Odin. |
 
 ## Beyond open source
 

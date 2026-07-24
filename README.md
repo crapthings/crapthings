@@ -59,10 +59,10 @@
 
 Private product work has sharpened these capabilities:
 
-- **Agentic product systems** — LLM workflows, tool integrations, and useful automation that holds up beyond a demo.
-- **Generative-media pipelines** — storyboarding, multimodal assets, prompt-driven image/video creation, and reviewable production flows.
-- **Product delivery end to end** — React and Next.js interfaces, backend services, data models, deployment, and observability.
-- **Desktop and browser experiences** — cross-platform apps, browser extensions, and focused tools for real daily workflows.
+- **Product delivery end to end** — interfaces, backend services, data, deployment, and observability.
+- **Desktop & browser experiences** — cross-platform apps, extensions, and daily-use tools.
+- **Generative-media pipelines** — storyboards, multimodal assets, and image/video workflows.
+- **Agentic product systems** — LLM workflows, tool integrations, and production-ready automation.
 
 ## Toolkit
 
@@ -72,10 +72,13 @@ Private product work has sharpened these capabilities:
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
   <img alt="Go" src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" />
   <img alt="Rust" src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" />
+  <img alt="Odin" src="https://img.shields.io/badge/Odin-1E4C6E?style=flat-square&logo=odin&logoColor=white" />
   <img alt="React" src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
   <img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
   <img alt="Cloudflare" src="https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white" />
   <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+  <img alt="RDF" src="https://img.shields.io/badge/RDF-1E4C6E?style=flat-square" />
+  <img alt="SPARQL" src="https://img.shields.io/badge/SPARQL-1E4C6E?style=flat-square" />
 </p>
 
 ## Work stats

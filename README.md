@@ -23,6 +23,7 @@
 
 - **AI creative tools** — making image and video workflows faster, more approachable, and useful in real work.
 - **Developer tools** — small, focused utilities that remove friction from everyday engineering.
+- **Knowledge graphs & semantic systems** — building RDF, SPARQL, and reasoning foundations for interoperable, queryable data.
 - **Full-stack products** — from a thoughtful UI to agents, infrastructure, and a dependable deployment.
 
 ## AI & creative products

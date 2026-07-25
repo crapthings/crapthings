@@ -1,6 +1,9 @@
 <div align="center">
   <h1>Hi, I'm Zhanghong 👋</h1>
   <p>
+    <img src="https://komarev.com/ghpvc/?username=crapthings&style=plastic&color=brightgreen&label=Profile+Views" alt="Profile views" />
+  </p>
+  <p>
     Full-stack engineer and independent builder based in Harbin, China.<br />
     I make practical, AI-native tools for images, video, and the web.
   </p>

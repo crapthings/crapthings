@@ -36,6 +36,7 @@
 | Project | What it does |
 | --- | --- |
 | [Storyboard Studio](https://github.com/crapthings/meteor-storyboard) | An AI-assisted, multi-shot studio for generating and managing media assets. |
+| [Z-Forge](https://github.com/crapthings/zimagetrainer) | A local-first studio for training and testing Z-Image Turbo LoRAs, from dataset checks and captioning to checkpoint comparison and a Playground. |
 | [Fabulous Cutter](https://github.com/crapthings/fabulous-cutter) | A local-first video and audio trimmer with multi-clip queues and batch export. |
 | [Fabulous Summary](https://github.com/crapthings/fabulous-summary) | A Chrome extension for page summaries and Side Panel chat with OpenRouter models. |
 | [Clarity](https://github.com/crapthings/clarity) | A local-first, AI-powered productivity tracker for turning screen activity into useful insights. |

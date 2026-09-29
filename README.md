@@ -66,8 +66,22 @@
 
 | Project | What it does |
 | --- | --- |
-| [Meldbase](https://github.com/crapthings/meldbase) | An experimental embedded reactive document database for Go and TypeScript. |
 | [money-safe](https://github.com/crapthings/money-safe) | A TypeScript money library for minor units, rounding, allocation, and safe payloads. |
+
+## Databases
+
+> Data infrastructure should feel simple at the surface without hiding the power underneath.
+
+| Project | What it does |
+| --- | --- |
+| [Meldbase](https://github.com/crapthings/meldbase) | An experimental embedded reactive document database for Go and TypeScript. |
+
+## Networking
+
+> Networking software should be fast, resilient, and understandable all the way down the stack.
+
+| Project | What it does |
+| --- | --- |
 | [hysteria-rust](https://github.com/crapthings/hysteria-rust) | An independent Rust implementation of Hysteria 2 with QUIC and cross-platform networking. |
 
 ## Odin Projects
@@ -99,6 +113,8 @@ Private product work has sharpened these capabilities:
 <p>
   <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" />
+  <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
   <img alt="Go" src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" />
   <img alt="Rust" src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" />

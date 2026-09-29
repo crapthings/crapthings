@@ -31,6 +31,8 @@
 
 ## AI & creative products
 
+> I build creative tools that turn ambitious ideas into practical, everyday workflows.
+
 | Project | What it does |
 | --- | --- |
 | [Storyboard Studio](https://github.com/crapthings/meteor-storyboard) | An AI-assisted, multi-shot studio for generating and managing media assets. |
@@ -42,6 +44,8 @@
 
 ## CLI tools
 
+> The best tools stay out of the way: one command, a clear result, and no ceremony.
+
 | Project | What it does |
 | --- | --- |
 | [nb-cli](https://github.com/crapthings/nb-cli) | Create and edit images with Gemini directly from the terminal. |
@@ -50,11 +54,15 @@
 
 ## Swift projects
 
+> Small native apps should feel fast, focused, and unmistakably at home on the Mac.
+
 | Project | What it does |
 | --- | --- |
 | [SweetUn](https://github.com/crapthings/SweetUn) | A tiny native macOS app for compressing and extracting archives, built with Swift and SwiftUI. |
 
 ## Open-source engineering
+
+> Experiments become useful software when the foundations are thoughtful, dependable, and open.
 
 | Project | What it does |
 | --- | --- |
@@ -63,6 +71,8 @@
 | [hysteria-rust](https://github.com/crapthings/hysteria-rust) | An independent Rust implementation of Hysteria 2 with QUIC and cross-platform networking. |
 
 ## Odin Projects
+
+> A ground-up exploration of semantic systems, built for clarity, interoperability, and control.
 
 | Project | What it does |
 | --- | --- |
@@ -84,6 +94,8 @@ Private product work has sharpened these capabilities:
 
 ## Toolkit
 
+### Languages
+
 <p>
   <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
@@ -92,6 +104,11 @@ Private product work has sharpened these capabilities:
   <img alt="Rust" src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" />
   <img alt="Swift" src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white" />
   <img alt="Odin" src="https://img.shields.io/badge/Odin-1E4C6E?style=flat-square&logo=odin&logoColor=white" />
+</p>
+
+### Frameworks & tools
+
+<p>
   <img alt="React" src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
   <img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
   <img alt="Cloudflare" src="https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white" />

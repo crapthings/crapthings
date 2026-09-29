@@ -33,14 +33,20 @@
 
 | Project | What it does |
 | --- | --- |
-| [nb-cli](https://github.com/crapthings/nb-cli) | Create and edit images with Gemini directly from the terminal. |
-| [zit-cli](https://github.com/crapthings/zit-cli) | Generate images from the terminal with Z-Image Turbo. |
 | [Storyboard Studio](https://github.com/crapthings/meteor-storyboard) | An AI-assisted, multi-shot studio for generating and managing media assets. |
 | [Fabulous Cutter](https://github.com/crapthings/fabulous-cutter) | A local-first video and audio trimmer with multi-clip queues and batch export. |
 | [Fabulous Summary](https://github.com/crapthings/fabulous-summary) | A Chrome extension for page summaries and Side Panel chat with OpenRouter models. |
 | [Clarity](https://github.com/crapthings/clarity) | A local-first, AI-powered productivity tracker for turning screen activity into useful insights. |
 | [HiMirror](https://github.com/crapthings/HiMirror) | A lightweight macOS menu bar app for live camera mirroring and framing. |
 | [LLM Memory Calculator](https://crapthings.github.io/llmmc/) | Estimate the VRAM required to run quantized LLMs. |
+
+## CLI tools
+
+| Project | What it does |
+| --- | --- |
+| [nb-cli](https://github.com/crapthings/nb-cli) | Create and edit images with Gemini directly from the terminal. |
+| [zit-cli](https://github.com/crapthings/zit-cli) | Generate images from the terminal with Z-Image Turbo. |
+| [run3d](https://github.com/crapthings/run3d) | Create an interactive 3D prototype with React Three Fiber in one command. |
 
 ## Open-source engineering
 

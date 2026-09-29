@@ -132,6 +132,7 @@ Private product work has sharpened these capabilities:
   <img alt="RDF" src="https://img.shields.io/badge/RDF-1E4C6E?style=flat-square" />
   <img alt="React" src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
   <img alt="SPARQL" src="https://img.shields.io/badge/SPARQL-1E4C6E?style=flat-square" />
+  <img alt="Three.js" src="https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white" />
 </p>
 
 ### Cloud & infrastructure

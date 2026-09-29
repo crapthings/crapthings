@@ -136,6 +136,14 @@ Private product work has sharpened these capabilities:
   <img alt="Three.js" src="https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white" />
 </p>
 
+### AI & machine learning
+
+<p>
+  <img alt="Diffusers" src="https://img.shields.io/badge/Diffusers-6B4EFF?style=flat-square" />
+  <img alt="Hugging Face" src="https://img.shields.io/badge/Hugging_Face-D99B00?style=flat-square" />
+  <img alt="Transformers" src="https://img.shields.io/badge/Transformers-FF6F00?style=flat-square" />
+</p>
+
 ### Cloud & infrastructure
 
 <p>

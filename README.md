@@ -67,6 +67,8 @@
 | Project | What it does |
 | --- | --- |
 | [money-safe](https://github.com/crapthings/money-safe) | A TypeScript money library for minor units, rounding, allocation, and safe payloads. |
+| [tsl-hex-tiling](https://github.com/crapthings/tsl-hex-tiling) | Non-repeating texture tiling for Three.js TSL, with WebGPU and WebGL 2 support. |
+| [metal-hex-tiling](https://github.com/crapthings/metal-hex-tiling) | A Swift package for non-repeating, mip-correct texture tiling on Apple Metal. |
 
 ## Databases
 
@@ -111,25 +113,26 @@ Private product work has sharpened these capabilities:
 ### Languages
 
 <p>
-  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+  <img alt="Go" src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" />
+  <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
   <img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" />
-  <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+  <img alt="Odin" src="https://img.shields.io/badge/Odin-1E4C6E?style=flat-square&logo=odin&logoColor=white" />
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img alt="Go" src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" />
   <img alt="Rust" src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" />
   <img alt="Swift" src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white" />
-  <img alt="Odin" src="https://img.shields.io/badge/Odin-1E4C6E?style=flat-square&logo=odin&logoColor=white" />
+  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
 </p>
 
 ### Frameworks & tools
 
 <p>
-  <img alt="React" src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-  <img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
   <img alt="Cloudflare" src="https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white" />
   <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+  <img alt="Meteor.js" src="https://img.shields.io/badge/Meteor.js-DE4F4F?style=flat-square&logo=meteor&logoColor=white" />
+  <img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
   <img alt="RDF" src="https://img.shields.io/badge/RDF-1E4C6E?style=flat-square" />
+  <img alt="React" src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
   <img alt="SPARQL" src="https://img.shields.io/badge/SPARQL-1E4C6E?style=flat-square" />
 </p>
 

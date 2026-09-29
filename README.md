@@ -48,6 +48,12 @@
 | [zit-cli](https://github.com/crapthings/zit-cli) | Generate images from the terminal with Z-Image Turbo. |
 | [run3d](https://github.com/crapthings/run3d) | Create an interactive 3D prototype with React Three Fiber in one command. |
 
+## Swift projects
+
+| Project | What it does |
+| --- | --- |
+| [SweetUn](https://github.com/crapthings/SweetUn) | A tiny native macOS app for compressing and extracting archives, built with Swift and SwiftUI. |
+
 ## Open-source engineering
 
 | Project | What it does |
@@ -84,6 +90,7 @@ Private product work has sharpened these capabilities:
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
   <img alt="Go" src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" />
   <img alt="Rust" src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" />
+  <img alt="Swift" src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white" />
   <img alt="Odin" src="https://img.shields.io/badge/Odin-1E4C6E?style=flat-square&logo=odin&logoColor=white" />
   <img alt="React" src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
   <img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />

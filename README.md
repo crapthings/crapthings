@@ -137,14 +137,14 @@ Private product work has sharpened these capabilities:
 ### Cloud & infrastructure
 
 <p>
-  <img alt="Alibaba Cloud" src="https://img.shields.io/badge/Alibaba_Cloud-FF6A00?style=flat-square&logo=alibabacloud&logoColor=white" />
-  <img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white" />
-  <img alt="Cloudflare" src="https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white" />
-  <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-  <img alt="Google Cloud" src="https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white" />
-  <img alt="Runpod" src="https://img.shields.io/badge/Runpod-673DE6?style=flat-square&logo=runpod&logoColor=white" />
-  <img alt="Tencent Cloud" src="https://img.shields.io/badge/Tencent_Cloud-0052D9?style=flat-square&logo=tencentcloud&logoColor=white" />
-  <img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
+  <img alt="Alibaba Cloud" src="https://img.shields.io/badge/Alibaba_Cloud-FF6A00?style=flat-square" />
+  <img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E?style=flat-square" />
+  <img alt="Cloudflare" src="https://img.shields.io/badge/Cloudflare-F38020?style=flat-square" />
+  <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=flat-square" />
+  <img alt="Google Cloud" src="https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square" />
+  <img alt="Runpod" src="https://img.shields.io/badge/Runpod-673DE6?style=flat-square" />
+  <img alt="Tencent Cloud" src="https://img.shields.io/badge/Tencent_Cloud-0052D9?style=flat-square" />
+  <img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000?style=flat-square" />
 </p>
 
 ## Work stats

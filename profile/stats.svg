@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">crapthings' GitHub Stats, Rank: A</title>
-        <desc id="descId">Total Stars Earned: 271, Total Commits  (last year) : 2625, Total PRs: 171, Total Issues: 1116, Contributed to (last year): 8</desc>
+        <desc id="descId">Total Stars Earned: 271, Total Commits  (last year) : 2628, Total PRs: 171, Total Issues: 1116, Contributed to (last year): 8</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 41.51588807922601;
+        stroke-dashoffset: 41.51564848550411;
       }
     }
   

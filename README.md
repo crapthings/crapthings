@@ -83,10 +83,6 @@
 
 > Networking software should be fast, resilient, and understandable all the way down the stack.
 
-| Project | What it does |
-| --- | --- |
-| [hysteria-rust](https://github.com/crapthings/hysteria-rust) | An independent Rust implementation of Hysteria 2 with QUIC and cross-platform networking. |
-
 ## Odin Projects
 
 > A ground-up exploration of semantic systems, built for clarity, interoperability, and control.
